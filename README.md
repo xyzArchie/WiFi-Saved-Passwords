@@ -1,7 +1,7 @@
 # WiFi Saved Passwords
-<p> </p>
+
+## Support
 <a href="https://www.buymeacoffee.com/astive" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="32" width="140"></a>
-Displays saved WiFi passwords.
 
 ## Info
 This tool displays used WiFi passwords.
