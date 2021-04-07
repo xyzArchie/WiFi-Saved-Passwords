@@ -1,6 +1,5 @@
 # WiFi Saved Passwords
 
-## Support
 <a href="https://www.buymeacoffee.com/astive" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="32" width="140"></a>
 
 ## Info
